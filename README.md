@@ -88,6 +88,16 @@ When you are finished with the assignment, push your git repository to
 GitHub so that the GitHub version of your repository is up to
 date. There should be four PNG files and four R code files.
 
+* Christopher's note: reproducing my plots:</br>
+source("plot1.R")</br>
+plot1Complete()</br>
+source("plot2.R")</br>
+plot2Complete()</br>
+source("plot3.R")</br>
+plot3Complete()</br>
+source("plot4.R")</br>
+plot4Complete()</br>
+
 
 The four plots that you will need to construct are shown below. 
 
